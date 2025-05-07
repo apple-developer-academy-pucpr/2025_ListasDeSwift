@@ -4,5 +4,6 @@
         <page name='Menu'/>
         <page name='1 Constantes e Variaveis'/>
         <page name='2 Funcoes'/>
+        <page name='3 Condicionais'/>
     </pages>
 </playground>
